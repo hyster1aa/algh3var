@@ -1,0 +1,15 @@
+C:\Users\mixai\source\repos\algh\algh\bin\Debug\net6.0\algh.exe
+C:\Users\mixai\source\repos\algh\algh\bin\Debug\net6.0\algh.deps.json
+C:\Users\mixai\source\repos\algh\algh\bin\Debug\net6.0\algh.runtimeconfig.json
+C:\Users\mixai\source\repos\algh\algh\bin\Debug\net6.0\algh.dll
+C:\Users\mixai\source\repos\algh\algh\bin\Debug\net6.0\algh.pdb
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.csproj.AssemblyReference.cache
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.AssemblyInfoInputs.cache
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.AssemblyInfo.cs
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.csproj.CoreCompileInputs.cache
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.dll
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\refint\algh.dll
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.pdb
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\algh.genruntimeconfig.cache
+C:\Users\mixai\source\repos\algh\algh\obj\Debug\net6.0\ref\algh.dll
